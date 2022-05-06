@@ -1,4 +1,4 @@
-<p align="center"><a href="https://ibb.co/y4QGHX5"><img src="https://i.ibb.co/GH5Bz0k/ban.png" alt="ban" border="0"></a></p>
+![Design and Development](https://github.com/KuralWhite/KuralWhite/blob/main/ban.png)
 
 <p align="center"><h1>KuralWhite</h1></p>
 I am a guy with a lot of creativity and the desire to always learn new things. I love HTML and graphics
