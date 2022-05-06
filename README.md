@@ -1,6 +1,6 @@
 <a href="https://ibb.co/y4QGHX5"><img src="https://i.ibb.co/GH5Bz0k/ban.png" alt="ban" border="0"></a>
 
-# Adrian Twarog
+# KuralWhite
 I am a guy with a lot of creativity and the desire to always learn new things. I love HTML and graphics and I spend hours there!
 
 ##Skills and Experience
