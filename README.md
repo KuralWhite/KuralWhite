@@ -1,6 +1,6 @@
 <p align="center"><a href="https://ibb.co/y4QGHX5"><img src="https://i.ibb.co/GH5Bz0k/ban.png" alt="ban" border="0"></a></p>
 
-# KuralWhite
+<p align="center"># KuralWhite</p>
 I am a guy with a lot of creativity and the desire to always learn new things. I love HTML and graphics
 and I spend hours there!
 
