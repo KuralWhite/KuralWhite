@@ -1,10 +1,10 @@
 ![Design and Development](https://github.com/KuralWhite/KuralWhite/blob/main/ban.png)
 
-<h1 align="center">KuralWhite</h1>
+# KuralWhite
 I am a guy with a lot of creativity and the desire to always learn new things. I love HTML and graphics
 and I spend hours there!
 
-<h2 align="center">Skills and Experience</h2>
+## Skills and Experience
 * 📱 PS, PR, AE, ME
 * 💻 HTML, CSS, JS, SQL, VSC, XAMP, DT
 
