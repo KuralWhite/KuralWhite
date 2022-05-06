@@ -1,14 +1,14 @@
-### Hi there 👋, my name is Kural
-#### I am Web & App Developer and Graphic Designer
-![I am Web & App Developer and Graphic Designer](https://i.ibb.co/zsMYSsb/WINDOWS-START.png)
+<h2 align="center">KuralWhite</h2>
+-------------------------------------------------------------------------
+<h3 align="center">I am Web & App Developer and Graphic Designer</3>
+
+![](https://i.ibb.co/zsMYSsb/WINDOWS-START.png)
+
+<h4 align="center">I am a guy with a lot of creativity and the desire to always learn new things. I love HTML and graphics and I spend hours there!</h4>
 
 -------------------------------------------------------------------------
 
-I am a guy with a lot of creativity and the desire to always learn new things. I love HTML and graphics and I spend hours there!
-
--------------------------------------------------------------------------
-
-Skills: JS / HTML / CSS / SQL / VSC 
+<h5 align="center">Skills: JS / HTML / CSS / SQL / VSC </h5>
 
 
 
