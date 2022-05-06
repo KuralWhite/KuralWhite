@@ -1,6 +1,6 @@
 ![Design and Development](https://github.com/KuralWhite/KuralWhite/blob/main/ban.png)
 
-# 𝑲𝒖𝒓𝒂𝒍𝑾𝒉𝒊𝒕𝒆
+# Giorgio Piu
 I am a guy with a lot of creativity and the desire to always learn new things. I love HTML and graphics
 and I spend hours there!
 
