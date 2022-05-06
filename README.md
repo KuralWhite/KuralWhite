@@ -5,7 +5,7 @@ I am a guy with a lot of creativity and the desire to always learn new things. I
 and I spend hours there!
 
 ## Skills and Experience
-* 📱 PS, PR, AE, ME
+* 🎨 PS, PR, AE, ME
 * 💻 HTML, CSS, JS, SQL, VSC, XAMP, DT
 
 <h3 align="center">🚀 Wolf Development https://discord.gg/prtRpMH9we </h3>
