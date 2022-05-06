@@ -3,7 +3,7 @@
 
 ![](https://i.ibb.co/zsMYSsb/WINDOWS-START.png)
 
-<h1 align="center">I am a guy with a lot of creativity and the desire to always learn new things. I love HTML and graphics and I spend hours there!</h1>
+<h4 align="center">I am a guy with a lot of creativity and the desire to always learn new things. I love HTML and graphics and I spend hours there!</h4>
 
 <h4 align="center">Skills: JS / HTML / CSS / SQL / VSC / PM / XAMP / DT / PS / PR / AE / ME </h4>
 
