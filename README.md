@@ -2,7 +2,7 @@
 
 # Giorgio Piu
 I am a guy with a lot of creativity and the desire to always learn new things. I love HTML and graphics
-and I spend hours there!
+and I spend hours there! If you want a conversation with me you can find me on the social networks listed below, or otherwise also on Discord with the name: Kural # 7120
 
 ## Skills and Experience
 * 🎨 PS, PR, AE, ME
