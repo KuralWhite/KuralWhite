@@ -1,6 +1,6 @@
 ![Design and Development](https://github.com/KuralWhite/KuralWhite/blob/main/ban.png)
 
-<p align="center"><h1>KuralWhite</h1></p>
+<h1 align="center">KuralWhite</h1>
 I am a guy with a lot of creativity and the desire to always learn new things. I love HTML and graphics
 and I spend hours there!
 
