@@ -1,4 +1,4 @@
-![Design and Development](https://github.com/KuralWhite/KuralWhite/blob/main/ban.png)
+![Design and Development](https://github.com/KuralWhite/KuralWhite/blob/main/banner.png)
 
 # Giorgio Piu
 I am a guy with a lot of creativity and the desire to always learn new things. I love HTML and graphics
